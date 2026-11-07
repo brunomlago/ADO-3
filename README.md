@@ -78,4 +78,14 @@ Turma: **BCCCAS4NA**
 
 ---
 
-*Projeto acadêmico — ADO-3 · Laboratório de Física*
+## Galeria
+
+<img width="1480" height="1196" alt="galeria-01-leve-contra-pesado" src="https://github.com/user-attachments/assets/56ad5663-49fc-4998-a3a5-150769ff040d" />
+
+<img width="1480" height="1196" alt="galeria-02-pesado-contra-leve" src="https://github.com/user-attachments/assets/f7dbb95f-cf47-4698-a7fa-c006fdc71fde" />
+
+<img width="1480" height="1196" alt="galeria-03-colisao-inelastica" src="https://github.com/user-attachments/assets/7a234cb9-207a-4564-bc25-182b85d89522" />
+
+<img width="1480" height="1196" alt="galeria-04-velocidades-opostas" src="https://github.com/user-attachments/assets/3244b377-ebca-48dd-927d-f621f1f74e63" />
+
+<img width="1480" height="1196" alt="galeria-05-parametros-com-barras" src="https://github.com/user-attachments/assets/a0daf433-4e05-4cda-88ab-142786966083" />
