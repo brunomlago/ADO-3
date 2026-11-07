@@ -1,4 +1,3 @@
-[README-ADO3.md](https://github.com/user-attachments/files/34511448/README-ADO3.md)
 # ADO-3 — Colisões e Conservação do Momento Linear
 
 > Laboratório virtual de física: simulador interativo de colisões frontais unidimensionais (elásticas e inelásticas), com análise completa de momento linear, energia cinética, impulso e força média.
