@@ -5,8 +5,9 @@
 
 **Acesse o simulador:** [https://ado-3.lovable.app](https://ado-3.lovable.app)
 
-![Capa do simulador — modo claro](capa-ado3.png)
-![Capa do simulador — modo escuro](capa-ado3-escuro.png)
+<img width="1480" height="1036" alt="capa-ado3" src="https://github.com/user-attachments/assets/f862b800-e294-40aa-b898-0f7ac63071d4" />
+
+<img width="1480" height="1036" alt="capa-ado3-escuro" src="https://github.com/user-attachments/assets/5d3ab582-da7a-415c-a997-36f64f1dd1f8" />
 
 ---
 
